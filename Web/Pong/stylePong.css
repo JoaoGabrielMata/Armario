@@ -1,0 +1,8 @@
+﻿#canvas {
+    border: 5px dashed #1d015f9a;
+    background-color: rgba(247, 243, 243, 0.144);
+}
+body {
+    background-image: url(Diabo.jpg);
+    background-size: 100%;
+}
